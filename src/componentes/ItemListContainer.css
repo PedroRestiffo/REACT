@@ -1,0 +1,11 @@
+.divContainer {
+    height: 500px;
+    background-color: aqua;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}

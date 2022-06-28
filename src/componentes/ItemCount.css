@@ -1,0 +1,11 @@
+.divCount {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 50px;
+}
+
+.buttons {
+    border-radius: 10px;
+    margin: 20px;
+}
